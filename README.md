@@ -1,3 +1,3 @@
 # Treinando-Java
 
-## Treinando Java do Zero - Curso da Loiane Groner
+### Treinando Java do Zero - Curso da Loiane Groner 📚
